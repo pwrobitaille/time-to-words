@@ -1,5 +1,3 @@
-require 'pry'
-
 puts "Please enter in a time (HH:MM)"
 time = gets.chomp
 new_time = time.split(':')
